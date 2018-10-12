@@ -1,4 +1,6 @@
-public class MyFirstPr{
+package ru.stqa.pft.sandbox;
+
+public class MyFirstPr {
 public static void main(String[] args){
 System.out.println("Hello");
 }
